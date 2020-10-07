@@ -1,0 +1,43 @@
+.btn.btn-primary.head-btn {
+  position: absolute;
+  top: 20%;
+  left: 40%;
+}
+
+.btn.btn-primary.lefthand-btn {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  
+}
+
+.btn.btn-primary.body-btn {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+
+.btn.btn-primary.righthand-btn {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+}
+
+.btn.btn-primary.leftleg-btn {
+  position: absolute;
+  top: 80%;
+  left: 20%;
+}
+
+.btn.btn-primary.rightleg-btn {
+  position: absolute;
+  top: 80%;
+  left: 60%;
+}
+
+.imageF {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
